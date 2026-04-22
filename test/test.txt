@@ -1,0 +1,5 @@
+foo bar FoO FOO foo
+
+foo fOO
+nothing here
+bar BaR bAr
